@@ -1,1 +1,3 @@
-# anotacoes.txt.
+programar
+fazer aplicativo
+criar sites
