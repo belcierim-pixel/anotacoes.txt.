@@ -1,3 +1,3 @@
-programar
-fazer aplicativo
-criar sites
+criar um codigos e sistemas
+fazer aplicativos
+criar sites/banners
